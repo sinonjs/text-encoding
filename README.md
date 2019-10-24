@@ -1,6 +1,40 @@
 text-encoding
 ==============
 
+This is a fork of https://github.com/inexorabletash/text-encoding, which
+has been marked as deprecated in the npm registry.
+
+```
+npm info text-encoding
+
+text-encoding@0.7.0 | (Unlicense OR Apache-2.0) | deps: none | versions: 11
+Polyfill for the Encoding Living Standard's API.
+https://github.com/inexorabletash/text-encoding
+
+DEPRECATED ⚠️  - no longer maintained
+
+keywords: encoding, decoding, living standard
+
+dist
+.tarball: https://registry.npmjs.org/text-encoding/-/text-encoding-0.7.0.tgz
+.shasum: f895e836e45990624086601798ea98e8f36ee643
+.integrity: sha512-oJQ3f1hrOnbRLOcwKz0Liq2IcrvDeZRHXhd9RgLrsT+DjWY/nty1Hi7v3dtkaEYbPYe0mUoOfzRrMwfXXwgPUA==
+.unpackedSize: 649.6 kB
+
+maintainers:
+- inexorabletash <inexorabletash@gmail.com>
+
+dist-tags:
+latest: 0.7.0
+
+published a year ago by inexorabletash <inexorabletash@gmail.com>
+```
+
+This fork is published as `@sinonjs/text-encoding` and will be available as long
+as it is in use by `@sinonjs` packages.
+
+<hr />
+
 This is a polyfill for the [Encoding Living
 Standard](https://encoding.spec.whatwg.org/) API for the Web, allowing
 encoding and decoding of textual data to and from Typed Array buffers
