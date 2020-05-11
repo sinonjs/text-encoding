@@ -40,7 +40,7 @@
     "puppeteer": "^3.0.4"
   },
   "scripts": {
-    "test:serve": "cd ./test && git submodule init && git submodule update --checkout && ./test-server.sh",
+    "test:serve": "cd ./test && git submodule init && git submodule update --checkout && ../test-server.sh",
     "test:integration": "yarn jest __tests__",
     "test": "yarn test:serve && jest"
   }
