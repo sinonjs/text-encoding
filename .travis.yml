@@ -13,8 +13,7 @@ before_script:
   - yarn install
 
 script:
-  - yarn run serve
-  - yarn run test
+  - yarn run test:serve
 
 cache:
   yarn: true
