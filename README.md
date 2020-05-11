@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://travis-ci.com/github/username1565/text-encoding" target="_blank">
-    <img alt="Build status" src="https://travis-ci.com/github/username1565/text-encoding.svg?branch=master"  />
+    <img alt="Build status" src="https://travis-ci.com/username1565/text-encoding.svg?branch=master"  />
   </a>
   <a href="https://github.com/username1565/text-encoding/issues" target="_blank">
     <img alt="Open Issues" src="https://badgen.net/github/open-issues/username1565/text-encoding" />
