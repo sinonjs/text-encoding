@@ -10,10 +10,11 @@ before_install:
   - sudo apt-get -qq install g++-4.8
 
 before_script:
-  - yarn serve
+  - yarn install
 
 script:
-  - yarn test
+  - yarn run serve
+  - yarn run test
 
 cache:
   yarn: true
