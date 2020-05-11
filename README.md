@@ -1,3 +1,19 @@
+
+<p align="center">
+  <a href="https://travis-ci.com/github/username1565/text-encoding" target="_blank">
+    <img alt="Build status" src="https://travis-ci.com/github/username1565/text-encoding.svg?branch=master"  />
+  </a>
+  <a href="https://github.com/wavesplatform/Waves/releases" target="_blank">
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/wavesplatform/Waves/total?cache=false&style=flat-square&style=flat-square" />
+  </a>
+  <a href="https://github.com/username1565/text-encoding/blob/master/LICENSE" target="_blank">
+    <img alt="License:  Dual-license as Apache-2.0" src="https://badgen.net/github/license/username1565/text-encoding"/>
+  </a>
+  <a href="https://github.com/username1565/text-encoding/issues" target="_blank">
+    <img alt="Open Issues" src="https://badgen.net/github/open-issues/username1565/text-encoding" />
+  </a>
+</p>
+
 text-encoding
 ==============
 
