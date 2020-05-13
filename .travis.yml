@@ -15,7 +15,7 @@ before_script:
 
 script:
   - yarn run test:serve
-  - yarn run test:only
+  - yarn run test:integration
 
 cache:
   yarn: true
