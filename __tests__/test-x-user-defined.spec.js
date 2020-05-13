@@ -3,7 +3,7 @@
 
 const {
   assert_equals,
-} = require('../assert-package.js');
+} = require('../util/assert-package.js');
 
 const { TextDecoder, TextEncoder } = require('../lib/encoding');
 

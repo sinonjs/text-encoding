@@ -5,7 +5,7 @@ const {
   assert_equals,
   assert_true,
   assert_array_equals,
-} = require('../assert-package.js');
+} = require('../util/assert-package.js');
 
 const { TextDecoder, TextEncoder } = require('../lib/encoding');
 
