@@ -15,8 +15,8 @@ before_script:
   - yarn test:serve
 
 script:
-  - yarn build
-  - yarn test:only
+  - yarn run build
+  - yarn run test:only
 
 cache:
   yarn: true
