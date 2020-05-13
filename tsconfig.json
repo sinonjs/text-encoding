@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "moduleResolution": "node",
+        "lib": [],
+        "outDir": "./esm5/",
+        "alwaysStrict": true,
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "declaration": true,
+        "preserveConstEnums": true,
+        "downlevelIteration": true,
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "test"
+    ]
+}

@@ -30,8 +30,8 @@ latest: 0.7.0
 published a year ago by inexorabletash <inexorabletash@gmail.com>
 ```
 
-This fork is published as `@sinonjs/text-encoding` and will be available as long
-as it is in use by `@sinonjs` packages.
+This fork is published as `@zxing/text-encoding` and will be available as long
+as it is in use by `@zxing` packages.
 
 <hr />
 
@@ -50,7 +50,7 @@ Basic examples and tests are included.
 
 ### Install ###
 
-There are a few ways you can get and use the `@sinonjs/text-encoding` library.
+There are a few ways you can get and use the `@zxing/text-encoding` library.
 
 ### HTML Page Usage ###
 
@@ -68,7 +68,7 @@ you should probably use a different library.
 
 #### Package Managers ####
 
-The package is published to **npm** as `@sinonjs/text-encoding`.
+The package is published to **npm** as `@zxing/text-encoding`.
 Use through these is not really supported, since they aren't used by
 the developer of the library. Using `require()` in interesting ways
 probably breaks. Patches welcome, as long as they don't break the
