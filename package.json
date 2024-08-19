@@ -1,5 +1,8 @@
 {
   "name": "@sinonjs/text-encoding",
+  "scripts": {
+    "postpublish": "git push --tags"
+  },
   "author": "Joshua Bell <inexorabletash@gmail.com>",
   "contributors": [
     "Joshua Bell <inexorabletash@gmail.com>",
