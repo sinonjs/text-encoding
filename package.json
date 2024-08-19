@@ -1,7 +1,7 @@
 {
   "name": "@sinonjs/text-encoding",
   "scripts": {
-    "postpublish": "git push --tags"
+    "postpublish": "git push --follow-tags"
   },
   "author": "Joshua Bell <inexorabletash@gmail.com>",
   "contributors": [
