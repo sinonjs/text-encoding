@@ -1,6 +1,12 @@
 text-encoding
 ==============
 
+
+<strong>DEPRECATED: This is no longer in use by Sinon packages</strong>
+<br>
+See [nise#243](https://github.com/sinonjs/nise/issues/243) for details on
+what replaced it
+
 This is a fork of https://github.com/inexorabletash/text-encoding, which
 has been marked as deprecated in the npm registry.
 
